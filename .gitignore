@@ -1,0 +1,17 @@
+﻿# Obsidian 私人配置不提交
+.obsidian/workspace.json
+.obsidian/workspace-history.json
+.obsidian/workspace-mobile.json
+.obsidian/canvas.json
+.obsidian/graph.json
+.obsidian/bookmarks.json
+.obsidian/plugins/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+*.tmp
+
+# 日记内容全部提交（这是你自己的仓库）
+# 如果不想提交某些私人内容，取消注释下面
+# Daily/*.md  # 只提交模板不提交日记内容？不建议这样
